@@ -51,7 +51,7 @@ pip install -r requirements.txt
 2. Start Server
 
 cd api
-py index.py
+py download.py
 
 3. Open in Browser
 
@@ -62,7 +62,7 @@ http://127.0.0.1:5000/api/download?url=VIDEO_URL
 ## 📂 Project Structure
 
 api/
-  index.py
+  download.py
 requirements.txt
 vercel.json
 README.md
